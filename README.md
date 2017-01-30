@@ -23,7 +23,7 @@ svn co http://svn.apache.org/viewvc/commons/proper/collections/trunk/.
 5. Browse http://localhost:9000
 
 # ---------------------------Eclipse Plugin--------------------------
-1) Go to market place under help menu of the eclipse
+1) Go to eclipse market place under help menu of the eclipse
 
 2) type sonar
 
