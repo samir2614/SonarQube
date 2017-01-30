@@ -16,9 +16,9 @@ Sonar is a web based code quality analysis tool for Maven based Java projects. I
 
 svn co http://svn.apache.org/viewvc/commons/proper/collections/trunk/.
 
-4. Run 
+4. Run in the same directory
 # $>      mvn install sonar:sonar 
-in the same directory
+
 
 5. Browse http://localhost:9000
 
