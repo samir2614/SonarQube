@@ -31,6 +31,8 @@ svn co http://svn.apache.org/viewvc/commons/proper/collections/trunk/.
 
 4) restart eclispe
 
+# How to configure maven pom.xml  with jacoco,sonar 
+
 	<!--  Added Jacoco report -->
 	<build>
 		<plugins>
