@@ -24,7 +24,10 @@ svn co http://svn.apache.org/viewvc/commons/proper/collections/trunk/.
 
 # ---------------------------Eclipse Plugin--------------------------
 1) Go to market place under help menu of the eclipse
+
 2) type sonar
+
 3) install
+
 4) restart eclispe
 
